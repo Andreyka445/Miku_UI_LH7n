@@ -28,7 +28,9 @@ ___Source code patches___
 Miku Patches: https://github.com/Andreyka445/miku_pathes
 
 ___Credits___
+
 Big thanks:
+
 https://github.com/Shirayuki39 : Device tree and Kernel
 
 https://github.com/Novicio-2309 : Guide me how to build custom rom
