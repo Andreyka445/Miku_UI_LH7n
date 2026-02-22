@@ -1,5 +1,5 @@
 # Miku UI releases for Tecno Pova 5 [LH7n/Rozen]
-Reoisitory for uploading stable Miku UI  builds
+Repoisitory for uploading stable Miku UI  builds
 
 # Requaired links for succes build
 
