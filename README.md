@@ -1,5 +1,5 @@
 # Miku UI releases for Tecno Pova 5 [LH7n/Rozen]
-Reoisitory for uploading stable Miku UI  build 
+Reoisitory for uploading stable Miku UI  builds
 
 # Requaired links for succes build
 
@@ -12,10 +12,15 @@ Kernel tree: https://github.com/Andreyka445/android_device_tecno_LH7n_kernel_mik
 ___Device Stuff___
 
 Hardware/Meiatek: https://github.com/Andreyka445/android_hardware_mediatek/tree/sixteen
+
 Hardware/Millennium: https://github.com/MillenniumOSS/android_hardware_millennium
+
 Mediatek/sepolicy_vndr: https://github.com/Andreyka445/android_device_mediatek_sepolicy_vndr/tree/sixteen
+
 Mediatek/Ims: https://github.com/MillenniumOSS/android_vendor_mediatek_ims
+
 Sony/Dolby: https://github.com/MillenniumOSS/android_vendor_sony_dolby/tree/sixteen-redesign
+
 JamesDSP: https://github.com/MillenniumOSS/android_vendor_JamesDSP
 
 ___Source code patches___
