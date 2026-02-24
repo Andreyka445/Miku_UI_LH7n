@@ -3,7 +3,7 @@ Repoisitory for uploading stable Miku UI  builds
 
 # Requaired links for succes build
 
-Device tree: https://github.com/Andreyka445/android_device_tecno_LH7n/tree/Miku
+Device tree: https://github.com/Andreyka445/android_device_tecno_LH7n/tree/Miku-stable
 
 Vendor tree: https://github.com/MillenniumOSS/android_vendor_tecno_LH7n
 
