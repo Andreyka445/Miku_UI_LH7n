@@ -1,4 +1,4 @@
-# Miku UI releases for Tecno Pova 5 [LH7n/Rozen]
+# Miku UI releases for Tecno Pova 5 and Infinix Note 30 [LH7n/Rozen] & [X6833B/Waves]
 Repoisitory for uploading stable Miku UI  builds
 
 # Requaired links for succes build
